@@ -169,7 +169,7 @@ To test out solutions
 ## General Guidelines
 
 -   To kickstart your journey in competitive programming, you may use `template.cpp` as a guide for a general program structure for solving a problem in competitive programming. All codes in this repository assumes that you are using the provided template.
--   To test inputs and outputs faster of your program. You may use this command when running your executable file. The `test.in` should contain the inputs that you are trying to test. The `test.out` file is automatically generated when you run this command in your terminal.
+-   To easily test inputs and outputs of your program. You may use this command when running your executable file. The `test.in` should contain the inputs that you are trying to test. The `test.out` file is automatically generated when you run this command in your terminal.
 
     ```bash
     ./a.out < test.in > test.out
@@ -247,5 +247,5 @@ I would like to thank these people for being my motivation and contributor for m
 [license-shield]: https://img.shields.io/github/license/kennethtegrado/competitive-programming-practice.svg?style=for-the-badge
 [license-url]: https://github.com/kennethtegrado/competitive-programming-practice/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/kennethtegrado
 [product-screenshot]: images/screenshot.png

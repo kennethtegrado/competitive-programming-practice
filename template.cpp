@@ -5,12 +5,14 @@ using namespace std;
 #define vi vector<int>
 #define vii vector<vi>
 #define pii pair<int,int>
+#define INF 9e18 
+#define EPS 1e-9
 
 void solve() {
     int n;
-    scanf("%d", &n);
+    cin >> n;
 
-    printf("%d\n",n);
+    cout << n << endl;
 }
 
 int32_t main() {
@@ -19,8 +21,7 @@ int32_t main() {
     cout.tie(0);
 
     int t = 1;
-    scanf("%d", &t);
-
+    cin >> t;
     while (t--) solve();
 
     return 0;
